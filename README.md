@@ -1,6 +1,8 @@
 # New-Mimicry-Sliding-Page-Login-Registration-Responsive-
 
-CSS + JS
+实际体验：[webPage.html](webPage.html)
+
+（提示：Chrome 的适配性最佳）
 
 ## 功能实现细节
 
