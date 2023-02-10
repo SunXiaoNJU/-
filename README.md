@@ -1,5 +1,6 @@
 # New-Mimicry-Sliding-Page-Login-Registration-Responsive-
 
+<h2>新拟态滑动登录注册页面（响应式）</h2>
 实际体验：[webPage.html](webPage.html)
 
 （提示：Chrome 的适配性最佳）
