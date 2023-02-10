@@ -1,14 +1,8 @@
 # New-Mimicry-Sliding-Page-Login-Registration-Responsive-
 
-<<<<<<< HEAD
-
 ## 新拟态滑动登录注册页面（响应式）
 
-=======
-
-<h2>新拟态滑动登录注册页面（响应式）</h2>
->>>>>>> 84af435ff2e40a70ca3e3b0e029db4b7a88c07b9
-实际体验：[webPage.html](webPage.html)
+​	实际体验：[webPage.html](webPage.html)
 
 （提示：Chrome 的适配性最佳）
 
@@ -21,3 +15,4 @@
 5. 每一个按钮和输入框都设计了 shadow 和 hover，细节满满。
 
 ![example](pic/example.png)
+
