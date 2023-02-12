@@ -1,11 +1,11 @@
-let switchCtn = document.querySelector("#switch-cnt");
-let switchC1 = document.querySelector("#switch-c1");
-let switchC2 = document.querySelector("#switch-c2");
-let switchCircle = document.querySelectorAll(".switch_circle");
-let switchBtn = document.querySelectorAll(".switch-btn");
-let aContainer = document.querySelector("#a-container");
-let bContainer = document.querySelector("#b-container");
-let allButtons = document.querySelectorAll(".submit");
+let switchCtn = document.getElementById("switch-cnt");
+let switchC1 = document.getElementById("switch-c1");
+let switchC2 = document.getElementById("switch-c2");
+let switchCircle = document.getElementsByClassName("switch_circle");
+let switchBtn = document.getElementsByClassName("switch-btn");
+let aContainer = document.getElementById("a-container");
+let bContainer = document.getElementById("b-container");
+let allButtons = document.getElementsByClassName("submit");
 
 let getButtons = (e) => e.preventDefault();
 let changeForm = () => {
